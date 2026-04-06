@@ -341,7 +341,7 @@ margin-bottom: 1rem;
     }
     .footer-panel2
     {
-        height: 40vh;
+        height: 80vh;
     }
     .hero-section
     {
@@ -389,7 +389,7 @@ display: none;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    height:50vh;
+    height:80vh;
   padding: 20px;
     
 }
