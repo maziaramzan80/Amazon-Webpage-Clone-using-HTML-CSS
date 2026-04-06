@@ -389,7 +389,7 @@ display: none;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    height:79vh;
+    height:50vh;
   padding: 20px;
     
 }
@@ -427,7 +427,7 @@ display: none;
 }
 .footer-panel2
 {
-    height: 120vh;
+    height: 80vh;
     padding: 25px 0px;
 }
 .footer-panel2 .ul
@@ -522,7 +522,8 @@ margin-top: 5px;
  justify-content: space-around;
  
 }
-.nav-logo {
+.nav-logo
+ {
     margin-right: 70px;
 }
 .nav-cart
