@@ -427,15 +427,14 @@ display: none;
 }
 .footer-panel2
 {
-    height: 80vh;
-    padding: 25px 0px;
+    height: 110vh;
+    padding: 15px 0px;
 }
 .footer-panel2 .ul
 {
     width: 100%;
 
 }
- 
 .footer-panel2 .ul a
 {
      margin-top: 7px;
@@ -444,8 +443,6 @@ display: none;
 {
 margin-top: 5px;
 }
-
-
 .hero-section
 {
     height: 30vh;
@@ -529,6 +526,10 @@ margin-top: 5px;
 .nav-cart
 {
     margin-left: -13px;
+}
+.footer-panel3
+{
+    height: 60px;
 }
 }
 
